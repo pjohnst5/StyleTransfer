@@ -5,7 +5,7 @@ A machine learning method to transfer style of artwork.
 This project takes one image's style and transfers it to another image's content. For example:
 
 #### Style image
-![](images/style1.JPG)
+![](images/style1.JPG =250x250)
 
 #### Content image
 ![](images/raw1.JPG)
